@@ -27,7 +27,7 @@ export function Hero() {
           {/* Texto */}
           <div className="space-y-6">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10">
-              Seu pet merece cuidado e atenção especial.
+              Seu pet merece cuidado, atenção e amor especial.
             </h1>
 
             <p className="lg:text-lg">
